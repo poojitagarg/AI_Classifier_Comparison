@@ -1,6 +1,14 @@
 # AI_Classifier_Comparison
+
+### List of contents
+
+- [Introduction](#introduction)
+- [Datasets](#Datasets)
+- [Classifiers](#Classifiers)
+
+## Intoduction
 This contains a comparitive analysis of the following classification algorithms of skLearn on three open source datasets.
-## Datasets:
+## Datasets
 * Iris
 * Digits
 * Boston
